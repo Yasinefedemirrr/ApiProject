@@ -1,0 +1,22 @@
+{
+  "name": "finalizer-api",
+  "version": "1.0.0",
+  "description": "Node.js ve Express.js öğrenme sürecinde backend geliştirme pratiği için basit REST API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "rest-api",
+    "crud"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+
